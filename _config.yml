@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
-title: Ruiqi Ma
-description: 3D Object Detection, Computer Vision, Point Cloud, Lidar
+#title: Ruiqi Ma
+# description: 3D Object Detection, Computer Vision, Point Cloud, Lidar
+encode: utf-8
